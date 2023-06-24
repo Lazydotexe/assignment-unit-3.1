@@ -97,6 +97,8 @@ console.log(favoriteFoods);
 
 // 4.f (STRETCH) TODO: Sort your favoriteFoods array
 //     in reverse alphabetical order. Log the array.
+
+
 // you have to use localeCompare to do this. I dont understand enough to try it. My array is already in reverse order however.
 //please accept this though
 favoriteFoods.sort();
